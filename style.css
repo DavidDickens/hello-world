@@ -1,0 +1,58 @@
+/* Anatomy of CSS--> selector {property: value;} */
+
+body {
+    background-color: rgb(39, 37, 37);
+    color: grey;
+    width: 60%;
+}
+
+h1 {
+    padding: 20px;  
+    margin: 10px;
+    float: left;
+    color: aliceblue;
+}
+
+header {
+    height: 100px;
+}
+
+h3 {
+    color: aliceblue;
+}
+
+#gg {
+    width: 500px;
+}
+
+#oldguys {
+    width:200px;
+    float: right;
+    
+}
+
+#cat {
+    width: 300px;
+}
+
+#what {
+    width: 300px;
+}
+
+#over {
+    width: 300px;
+}
+
+nav {
+    margin: 40px;
+    float: right;
+}
+ nav ul {
+    list-style: none;
+    display: inline;
+      }
+
+      nav li{
+        display: inline;
+        padding: 10px;
+      }
