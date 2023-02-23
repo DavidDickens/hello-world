@@ -7,10 +7,11 @@ body {
 }
 
 h1 {
-    padding: 20px;  
+    padding: 10px;  
     margin: 10px;
     float: left;
     color: aliceblue;
+    
 }
 
 header {
@@ -45,7 +46,7 @@ h3 {
 
 nav {
     margin: 40px;
-    float: right;
+    float: center;
 }
  nav ul {
     list-style: none;
@@ -56,3 +57,7 @@ nav {
         display: inline;
         padding: 10px;
       }
+
+footer {
+    color: aliceblue;
+}
